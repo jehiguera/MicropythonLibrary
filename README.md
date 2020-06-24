@@ -1,2 +1,2 @@
-# MicropythonTutotal
-Micropython tutorial with PYB1.1 board
+# MicropythonLibrary
+Micropython libs with PYB1.1 board
